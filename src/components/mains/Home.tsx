@@ -54,7 +54,7 @@ export default function Home(){
             <title> Home | Cheyenne's Resume</title>
             <StyledH2>Home</StyledH2>
             <StyledDivIntroduction>
-                <StyledImg src="src/headshot.jpeg" alt="Cheyenne"/>
+                <StyledImg src="../../headshot.jpeg" alt="Cheyenne"/>
                 <StyledPIntroduction>Hi, I’m Cheyenne, a full-time student at Boston University majoring in Computer Science with a minor
                     in Innovation and Entrepreneurship.
                     I’m passionate about using technology to make a meaningful impact. After college, I hope to build a
