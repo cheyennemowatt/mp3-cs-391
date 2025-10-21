@@ -27,7 +27,7 @@ const StyledCalculatorDiv = styled.div`
     border-radius: 20%;
     padding:5%;
     max-height: 25%;
-    max-width: 35%;
+    max-width: 45%;
     border: #C4B4A8 3px solid;
 `;
 const StyledCalculatorLabel = styled.label`
