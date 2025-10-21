@@ -10,6 +10,6 @@ const StyledLink = styled(Link)`
 `;
 export default function Footer() {
     return (
-        <StyledFooterP> All Rights Reserved by Cheyenne Mowatt <StyledLink to={''}>Credits</StyledLink> &#169;</StyledFooterP>
+        <StyledFooterP> All Rights Reserved by Cheyenne Mowatt <StyledLink to={'/'}>Credits</StyledLink> &#169;</StyledFooterP>
     );
 }
