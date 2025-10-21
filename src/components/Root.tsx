@@ -10,7 +10,7 @@ import Projects from "../components/mains/Projects";
 import Leadership from "../components/mains/Leadership";
 import styled from "styled-components";
 
-import '../../App.css';
+import "../../app.css";
 const StyledPageWrapper = styled.div`
     width: 80vw;
     background-color: #F5F2EF;
